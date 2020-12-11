@@ -1,0 +1,14 @@
+//allows apk files to be run under a andiod envirermnet 
+Troggen andriod opion allows the troggen.apk 
+Andiod will come with a Client and remote to. 
+Client  
+Remote
+remote to be able to control with the host 
+
+Troggen will run off of a client and host and usaly the host file is added to the victim computer
+Http will start open open a 80 as a port
+
+The github project is this link https://github.com/androidtrojan1/android-trojan-service-
+
+//Http connection as 127.0.0.1 port 80 
+
